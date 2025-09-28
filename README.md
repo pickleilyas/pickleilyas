@@ -18,7 +18,13 @@ Passionate about building modern and user-friendly web applications. I love expl
 - Improving my **full-stack development skills**  
 - Building personal projects to strengthen my portfolio  
 - Exploring **Next.js** for modern web apps  
-- Learning **best practices** for clean and scalable code  
+- Learning **best practices** for clean and scalable code
+
+
+---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilyas%20Fainach-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ilyasfainach/)  
 
 ---
 
