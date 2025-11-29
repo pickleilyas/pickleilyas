@@ -31,12 +31,3 @@ Passionate about building modern and user-friendly web applications. I love expl
 ## 🎨 Portfolio  
 👉 Check out my work here: [ilyas.ct.ws](https://ilyas.ct.ws)  
 
----
-
-## 🌱 Fun Facts  
-- ☕ Coffee is my fuel  
-- 📚 Always curious to learn new stuff  
-- 🎮 Enjoy gaming and tech exploration when I’m not coding  
-
----
-✨ _“Always learning and exploring new technologies.”_
