@@ -1,6 +1,6 @@
 # Hi there, I'm Ilyas 👋  
 
-💻 **Full-stack Developer **  
+💻 Full-stack Developer
 Passionate about building modern and user-friendly web applications. I love exploring new technologies and working on projects that challenge me to grow.  
 
 ---
